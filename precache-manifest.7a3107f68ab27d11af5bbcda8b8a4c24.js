@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/GA4_React_ecommerce/static/media/shopping-bag.09e6f5e7.svg"
   },
   {
-    "revision": "c1367c556697a7b14c43a5093f8b8b16",
+    "revision": "9270ec28436bd5fe601ef000c1773f1f",
     "url": "/GA4_React_ecommerce/index.html"
   }
 ];
